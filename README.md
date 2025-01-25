@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vascocosta89
-- 🌱 I’m currently learning Angular and MongoDb.
-- 💞️ I’m looking to collaborate on projects doing BE Java development.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on data analysis or data engineering projects.
 - 📫 Reach me at vascocosta.89@gmail.com
 
 <!---
